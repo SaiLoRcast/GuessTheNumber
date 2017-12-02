@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="range">"От 0 до "</string>
+    <string name="guess">Угадать</string>
+</resources>

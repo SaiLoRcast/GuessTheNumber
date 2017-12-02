@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="range">From 0 to </string>
+    <string name="guess">Guess</string>
+    <string name="from_to">от 0 до</string>
+    <string name="restart_game">Начать сначала</string>
+
+</resources>
